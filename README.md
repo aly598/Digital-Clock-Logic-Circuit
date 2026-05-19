@@ -4,15 +4,9 @@
 This document presents a digital clock circuit implemented without using a microcontroller. The design is based entirely on digital integrated circuits such as counters, logic gates, diodes, resistors, a transistor, and a crystal oscillator. The clock displays time in minutes and seconds using 7-segment displays. The explanation is written in a simple and clear manner suitable for beginners and academic discussion.
 
 ## Project Members
-<<<<<<< HEAD
 * Alyeldeen Ahmed Eldowaik 
 * Youssef Mohamed 
 * Yassin Hazem 
-=======
-* Alyeldeen Ahmed Eldowaik – 241016698
-* Youssef Mohamed – 241015841
-* Yassin Hazem – 231000555
->>>>>>> 6523cf8248df5da04a9810ab5673cbb25f1db83c
 
 ## Components Used
 * IC 4060 – Oscillator and binary counter (2 pieces)
@@ -58,20 +52,20 @@ The IC 7400 contains four NAND gates. These gates are used to detect specific co
 ## System Diagrams & Schematics
 
 ### Block Diagram
-![Block Diagram](image/block_diagram.jpg)
+![Block Diagram](images/block_diagram.jpg)
 
 ### Pulse Generation Schematic
-![Pulse Generation Schematic](image/pulse_generation.jpg)
+![Pulse Generation Schematic](images/pulse_generation.jpg)
 
 ### Mod-60 & Mod-12 Schematics
-![Mod 60 Seconds](image/mod60_seconds.jpg)
-![Mod 60 Minutes](image/mod60_minutes.jpg)
-![Mod 12 Hours](image/mod12_hours.jpg)
+![Mod 60 Seconds](images/mod60_seconds.jpg)
+![Mod 60 Minutes](images/mod60_minutes.jpg)
+![Mod 12 Hours](images/mod12_hours.jpg)
 
 ## Physical Implementation
-![Physical Circuit View 1](image/physical_1.jpg)
-![Physical Circuit View 2](image/physical_2.jpg)
-![Physical Circuit View 3](image/physical_3.jpg)
+![Physical Circuit View 1](images/physical_1.jpg)
+![Physical Circuit View 2](images/physical_2.jpg)
+![Physical Circuit View 3](images/physical_3.jpg)
 
 *You can view a video of the working circuit [here](https://drive.google.com/file/d/1tiuvQU5EV8XumlfdopGbZydBgzEN-A4r/view?usp=drive_link).*
 
@@ -79,8 +73,5 @@ The IC 7400 contains four NAND gates. These gates are used to detect specific co
 We initially attempted to build and simulate this circuit using Tinkercad. However, we found that Tinkercad's component library lacks some of the specific ICs and exact capacitor values required for our design. Because the simulator couldn't accurately reflect our real-world components, the simulation was incomplete. Therefore, we relied entirely on our physical breadboard implementation, which represents the final, fully functional project.
 
 ## Conclusion
-<<<<<<< HEAD
+
 This digital clock demonstrates how accurate timekeeping can be achieved using basic digital electronics without programming or microcontrollers. The design is reliable, educational, and well-suited for understanding counters, logic control, and timing circuits.
-=======
-This digital clock demonstrates how accurate timekeeping can be achieved using basic digital electronics without programming or microcontrollers. The design is reliable, educational, and well-suited for understanding counters, logic control, and timing circuits.
->>>>>>> 6523cf8248df5da04a9810ab5673cbb25f1db83c
