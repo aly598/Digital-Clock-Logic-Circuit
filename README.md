@@ -4,9 +4,15 @@
 This document presents a digital clock circuit implemented without using a microcontroller. The design is based entirely on digital integrated circuits such as counters, logic gates, diodes, resistors, a transistor, and a crystal oscillator. The clock displays time in minutes and seconds using 7-segment displays. The explanation is written in a simple and clear manner suitable for beginners and academic discussion.
 
 ## Project Members
+<<<<<<< HEAD
 * Alyeldeen Ahmed Eldowaik 
 * Youssef Mohamed 
 * Yassin Hazem 
+=======
+* Alyeldeen Ahmed Eldowaik – 241016698
+* Youssef Mohamed – 241015841
+* Yassin Hazem – 231000555
+>>>>>>> 6523cf8248df5da04a9810ab5673cbb25f1db83c
 
 ## Components Used
 * IC 4060 – Oscillator and binary counter (2 pieces)
@@ -73,4 +79,8 @@ The IC 7400 contains four NAND gates. These gates are used to detect specific co
 We initially attempted to build and simulate this circuit using Tinkercad. However, we found that Tinkercad's component library lacks some of the specific ICs and exact capacitor values required for our design. Because the simulator couldn't accurately reflect our real-world components, the simulation was incomplete. Therefore, we relied entirely on our physical breadboard implementation, which represents the final, fully functional project.
 
 ## Conclusion
+<<<<<<< HEAD
 This digital clock demonstrates how accurate timekeeping can be achieved using basic digital electronics without programming or microcontrollers. The design is reliable, educational, and well-suited for understanding counters, logic control, and timing circuits.
+=======
+This digital clock demonstrates how accurate timekeeping can be achieved using basic digital electronics without programming or microcontrollers. The design is reliable, educational, and well-suited for understanding counters, logic control, and timing circuits.
+>>>>>>> 6523cf8248df5da04a9810ab5673cbb25f1db83c
