@@ -59,7 +59,7 @@ The IC 7400 contains four NAND gates. These gates are used to detect specific co
 
 ### Mod-60 & Mod-12 Schematics
 ![Mod 60 Seconds](images/mod60_seconds.jpg)
-![Mod 60 Minutes](images/mod60_minutes.jpg)
+![Mod 60 Minutes](images/mod60_minutesjpg.jpg)
 ![Mod 12 Hours](images/mod12_hours.jpg)
 
 ## Physical Implementation
