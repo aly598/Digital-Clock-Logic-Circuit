@@ -62,10 +62,11 @@ The IC 7400 contains four NAND gates. These gates are used to detect specific co
 ![Mod 60 Minutes](images/mod60_minutesjpg.jpg)
 ![Mod 12 Hours](images/mod12_hours.jpg)
 
-## Physical Implementation
+## Physical Implementation\
+![Physical Breadboard Implementation](images/physical_circuit.jpg)
 ![Physical Circuit View 1](images/physical_1.jpg)
 ![Physical Circuit View 2](images/physical_2.jpg)
-![Physical Circuit View 3](images/physical_3.jpg)
+
 
 *You can view a video of the working circuit [here](https://drive.google.com/file/d/1tiuvQU5EV8XumlfdopGbZydBgzEN-A4r/view?usp=drive_link).*
 
